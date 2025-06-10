@@ -5,7 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: "https://st.storabble.etondigital.com",
+    baseUrl: "https://storabble:ed2023@st.storabble.etondigital.com",
     chromeWebSecurity: false
   },
 });

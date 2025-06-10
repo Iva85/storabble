@@ -1,6 +1,10 @@
 {
-    "confirmedUserEmail": "ivapetkovic85@gmail.com",
-    "confirmedUserPassword": "Test1985",
-    "unconfirmedEmail": "ivapetkovic85+3@gmail.com",
-    "unconfirmedPassword": "Ivaa1234"
+    "email1": "ivapetkovic85@gmail.com",
+    "password1": "Ivaaaa5678",
+    "email2": "ivapetkovic85+3@gmail.com",
+    "password2": "Ivaa1234",
+    "unconfirmedEmail": "ivapetkovic85+4@gmail.com",
+    "unconfirmedPassword": "Test1234",
+    "invalidEmail": "test@test",
+    "invalidPassword": "testtest"
 }
